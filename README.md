@@ -1,6 +1,8 @@
 # java8
 Code samples for Java8 Tamil video tutorials hosted in www.guvi.in
 
+Use coupon code "java8" for 10% dicsount https://www.guvi.in/course-detail?course=java8
+
 Some code samples are taken from java8 in action book for explanation.
 
 The following topics are covered in the Tamil video tutorial :
